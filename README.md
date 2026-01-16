@@ -1,4 +1,5 @@
-### Hi 👋, I'm [Your Name]
+### Hi 👋, I'm Aboli
+
 ##### 🧠 Data Scientist & AI Enthusiast crafting intelligent solutions to drive real-world innovation! 🤖
 
 ##### 📌 About Me
