@@ -43,7 +43,6 @@
 ## 📫 Connect With Me
 
 - 📍 Netherlands  
-- 📧 Email: **abolivirkhare97@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/aboli-virkhare](https://www.linkedin.com/in/aboli-virkhare)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/aboli-virkhare)
+- 📧 [Email](mailto:abolivirkhare97@gmail.com)
 ---
