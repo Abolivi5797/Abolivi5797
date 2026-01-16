@@ -1,5 +1,5 @@
-Hi 👋, I'm Aboli  
-🧠 A Data Engineer & Analyst building scalable data solutions and transforming raw data into business insights ☁️📊
+##Hi 👋, I'm Aboli ##
+
 
 📌 About Me
 
