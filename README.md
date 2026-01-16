@@ -9,7 +9,7 @@
 * 🤝 **Collaboration:** Open to collaborating on cutting-edge AI/ML or Data Science projects.
 * 🌱 **Learning:** Currently exploring LLMs, RAGs, and Generative AI.
 * 💬 **Ask me about:** Python, SQL, Power BI, ML algorithms, Data Science, Data Visualization Tools, AWS, and Azure.
-* 📍 **Location:** Currently based in the Netherlands | Authorized to work | Valid Resident Permit| Available immediately
+* 📍 **Location:** Currently based in the Netherlands | Authorized to work | Valid Resident Permit| Available immediately.
 
 ##### 💻 Tech Stack
 
