@@ -1,51 +1,24 @@
-# Hi 👋, I'm Aboli
+### Hi 👋, I'm [Your Name]
+##### 🧠 Data Scientist & AI Enthusiast crafting intelligent solutions to drive real-world innovation! 🤖
 
-🧠 **A Data Engineer & Analyst** building scalable data solutions and transforming raw data into actionable business insights ☁️📊
+##### 📌 About Me
+* 💫 **Currently working on:** Developing an AI-driven invoice and GST document extraction system.
+* 📖 **Education:** MSc from the University of Sheffield, UK.
+* 💡 **Passion:** Leveraging Data Science, ML, and AI to build impactful, data-driven solutions.
+* 🤝 **Collaboration:** Open to collaborating on cutting-edge AI/ML or Data Science projects.
+* 🌱 **Learning:** Currently exploring LLMs, RAGs, and Generative AI.
+* 💬 **Ask me about:** Python, SQL, Power BI, ML algorithms, Data Science, Data Visualization Tools, AWS, and Azure.
 
----
+##### 💻 Tech Stack
+**Languages & Frameworks:** 
+`Python` `FastAPI` `Keras` `PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas` `SciPy` `Matplotlib`
 
-## 📌 About Me
+**Data & Cloud:** 
+`Microsoft SQL Server` `AWS` `Azure` `Power BI`
 
-- 📖 Master’s graduate in **Data Analytics** from the University of Sheffield  
-- 💡 **4+ years of experience** in Data Engineering & Data Analytics  
-- 🤝 Open to collaborating on **data engineering, analytics, and automation projects**  
-- 🌱 Currently exploring **advanced AWS data architectures**, analytics engineering, and ML-powered use cases  
-- 💬 Ask me about **SQL, Python, AWS (Lambda, S3, SQS), Data Pipelines, Power BI, APIs, and Data Modeling**  
-- ⚡ Fun fact: My data pipelines run 24/7, but my coffee intake scales with production issues ☕🚀  
+**Tools:** 
+`Git` `GitHub`
 
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aboli-virkhare)
-- 📧 [Email](mailto:abolivirkhare97@gmail.com)
-- 🌐 [Portfolio](https://www.datascienceportfol.io/abolivirkhare97)
-
----
-
-## 🛠️ Languages and Tools
-
-**Languages & Querying**  
-- Python  
-- SQL  
-
-**Cloud & Data Platforms**  
-- AWS (Lambda, S3, SQS, CloudWatch)  
-- Google BigQuery  
-
-**Analytics & Visualization**  
-- Power BI  
-
-**Databases**  
-- PostgreSQL  
-- MySQL  
-
-**Tools & Workflow**  
-- Git & GitHub  
-- JIRA & Confluence  
-- Linux  
-- REST APIs  
-
----
-
-⭐ *Feel free to explore my repositories and connect!*
+##### ⚡ Fun Fact
+<!-- This part is optional, but the source profile suggests a relatable fact [2] -->
+My ML models improve over time, but my coffee consumption increases even faster! ☕🤖
