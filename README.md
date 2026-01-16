@@ -9,6 +9,7 @@
 * 🤝 **Collaboration:** Open to collaborating on cutting-edge AI/ML or Data Science projects.
 * 🌱 **Learning:** Currently exploring LLMs, RAGs, and Generative AI.
 * 💬 **Ask me about:** Python, SQL, Power BI, ML algorithms, Data Science, Data Visualization Tools, AWS, and Azure.
+* 📍 **Location:** Currently based in the Netherlands | Authorized to work | Valid Resident Permit| Available immediately
 
 ##### 💻 Tech Stack
 
@@ -41,8 +42,8 @@
 
 
 ## 📫 Connect With Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboli-virkhare)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolivirkhare97@gmail.com)
 
-- 📍 Netherlands  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aboli-virkhare)
-- 📧 [Email](mailto:abolivirkhare97@gmail.com)
 ---
