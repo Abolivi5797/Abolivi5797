@@ -1,6 +1,6 @@
-### Hi 👋, I'm Aboli
+# Hi 👋, I'm Aboli
 
-##### 🧠 Data Scientist & AI Enthusiast crafting intelligent solutions to drive real-world innovation! 🤖
+#### 🧠 Data Scientist & AI Enthusiast crafting intelligent solutions to drive real-world innovation! 🤖
 
 ## 📌 About Me
 * 💫 **Currently working on:** Developing an AI-driven invoice and GST document extraction system.
