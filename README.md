@@ -38,3 +38,13 @@
 **Version Control**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Netherlands  
+- 📧 Email: **abolivirkhare97@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/aboli-virkhare](https://www.linkedin.com/in/aboli-virkhare)
+
+---
